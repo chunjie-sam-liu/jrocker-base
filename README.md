@@ -8,3 +8,4 @@ The docker resource limit the long time build. Split the jrocker as jrocker-base
 * 2 GB RAM
 * 1 CPU
 * 30 GB Disk Space
+
