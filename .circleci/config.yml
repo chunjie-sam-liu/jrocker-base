@@ -1,0 +1,8 @@
+version: 2
+jobs:
+  build:
+    docker:
+      - image: chunjiesamliu/jrocker-base:latest
+    steps:
+      - checkout
+      - run: R --version
