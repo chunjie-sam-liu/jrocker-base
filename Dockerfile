@@ -1,5 +1,4 @@
-ARG BASE_CONTAINER=rocker/rstudio:latest
-FROM $BASE_CONTAINER
+FROM rocker/rstudio:latest
 
 LABEL maintainer="Chun-Jie Liu <chunjie-sam-liu@foxmail.com>"
 
